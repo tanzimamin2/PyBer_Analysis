@@ -8,7 +8,7 @@ Our client wants us to look into the dataset and create a summary DataFrame by c
 We have to organize the dataset and find the following things:-
 * Total rides according to city types (Rural, Suburban and Urban).
 * Total fares in the city types.
-* The average fare per ride and driver for the city types
+* The average fare per ride and driver for the city types.
 * Afterwords, making a line graph using all our findings.
 * Give business recommendations to the CEO for addressing any disparities among the city types.
 
