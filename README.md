@@ -27,6 +27,10 @@ When we see the table, we can come to these conclusions:-
 
 
 ## Summary
+A graph to summerize and visualize all our findings:-
+
+![image](https://user-images.githubusercontent.com/93144225/144515896-b227cbab-7038-4f7f-b5e1-69c45f145fac.png)
+
 Here are three business recommendations to the CEO for addressing any disparities among the city types:-
 
 * Rural cities have the least number of drivers, this could be a reason why they have low number of riders. If rural drivers are given better incentives, the total driver count could increase. As a result, the customer base will also increase as it will be easier to get a ride.
