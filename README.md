@@ -35,5 +35,5 @@ Here are three business recommendations to the CEO for addressing any disparitie
 
 
 ## Links
-  * Visit this [link](https://github.com/tanzimamin2/stock-analysis) for the excel worksheet and other resources.
+  * Visit this [link](https://github.com/tanzimamin2/PyBer_Analysis) for the excel dataset and other resources.
    
